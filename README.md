@@ -3,7 +3,7 @@ Projeto visando aplicar conhecimento adquirido durante curso de automação de t
 
 As suítes de testes foram dividades em:
 
-* Testes de conformidade (testes funcionais e de contrato).
-* Testes de robustez (testes funcionais e de contrato).
+* Testes de conformidade (testes funcionais).
+
 
 https://serverest.dev/
